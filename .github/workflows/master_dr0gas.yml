@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'dr0gas'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EBE6D872655D47B89FA8C361870E0F55 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F0EB01AC1417491694FCE70F048CDE55 }}
