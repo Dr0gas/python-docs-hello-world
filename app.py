@@ -1,6 +1,6 @@
 from flask import Flask
 app = Flask(__name__)
 
-@app.route("/")
+@app.route("/d0ug.html")
 def hello():
-    return "Hello, World!"
+    return "U3ViZG9tYWluIFRha2VvdmVyIGJ5OmQwdWcK"
